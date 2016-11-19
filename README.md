@@ -1,11 +1,28 @@
-# resources
+# Resources
 An awesome list of resources and references for competitive programming in VJC!
 
+## Table of contents
+* [Learning C++](learning-c++)
+* [Learning Git](learning-git)
+* [Algorithms](#algorithms)
+* [Books](#books)
+
+
+
 ## Learning C++
+> How to start off well and make good progress.
 
 It is recommended that you learn C++11. To start off, borrow this book: [Stroustrup: The C++ Programming Language (4th Edition)](http://www.stroustrup.com/4th.html). It's a great book on C++11 by the creator himself.
 
 For a good source of documentation, use [C++ Reference](http://en.cppreference.com/w/) and avoid other websites like [cplusplus.com](http://www.cplusplus.com/).
+
+## Learning Git
+
+Those new to Github and version control may find this
+[cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+and the other materials on their training website helpful. Another solution is
+to learn [Git from the bottom
+up](https://jwiegley.github.io/git-from-the-bottom-up/).
 
 ## Algorithms
 
@@ -40,3 +57,10 @@ For an overview of the main topics covered which are relevant to competitive pro
 | Symbol Tables | x | ✓ |
 | Tries | x | ✓ |
 | Union Find\* | x | ✓ |
+
+## Books
+> Some recommended books for competitive programming.
+
+| ☆ | Name | Description |
+| --- | --- | --- |
+| ★★☆ | [Competitive Programming](https://cpbook.net/), by Steven and Felix Halim | This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book, although advanced. ... The first edition is free for [download (pdf)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf). |
