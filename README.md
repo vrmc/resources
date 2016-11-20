@@ -2,8 +2,8 @@
 An awesome list of resources and references for competitive programming in VJC!
 
 ## Table of contents
-* [Learning C++](learning-c++)
-* [Learning Git](learning-git)
+* [Learning C++](#learning-c++)
+* [Learning Git](#learning-git)
 * [Algorithms](#algorithms)
 * [Books](#books)
 
