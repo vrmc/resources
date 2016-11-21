@@ -61,7 +61,9 @@ For an overview of the main topics covered which are relevant to competitive pro
 
 ## Practices
 Project Euler: It is an archived of 568 problem ranking from easy to difficult. [Go to site](https://projecteuler.net/archives)
+
 Australian Informatics Olympiad: [To try out sample questions](http://www.amt.edu.au/informatics/aio/aio-sample-questions/)
+
 (Singapore) National Olympiad in Informatics: All the first question of each year are relatively easier. Ivan thinks that 2008 questions is quite manageable. [Go to 2008 questions](https://www.comp.nus.edu.sg/~noi/tasks/2008/) 
 
 
