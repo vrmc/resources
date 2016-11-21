@@ -8,9 +8,8 @@ An awesome list of resources and references for competitive programming in VJC!
 * [Practices](#practices)
 * [Books](#books)
 
-
-
 ## Learning C++
+
 > How to start off well and make good progress.
 
 It is recommended that you learn C++11. To start off, borrow this book: [Stroustrup: The C++ Programming Language (4th Edition)](http://www.stroustrup.com/4th.html). It's a great book on C++11 by the creator himself.
@@ -19,15 +18,11 @@ For a good source of documentation, use [C++ Reference](http://en.cppreference.c
 
 ## Learning Git
 
-Those new to Github and version control may find this
-[cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-and the other materials on their training website helpful. Another solution is
-to learn [Git from the bottom
-up](https://jwiegley.github.io/git-from-the-bottom-up/).
+Those new to Github and version control may find this [cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) and the other materials on their training website helpful. Another solution is to learn [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/).
 
 ## Algorithms
 
-For those new to algorithms, take a look at online courses. The [Algorithms](https://www.coursera.org/specializations/algorithms) specialization on Coursera by Stanford university is highly recommended. (The author has not tried out the new courses ever since the old course was split up into 4 courses, but believes that the quality should be consistent.)
+For those new to algorithms, take a look at online courses. The [Algorithms](https://www.coursera.org/specializations/algorithms) specialization on Coursera by Stanford university is highly recommended. (One of the authors (Wei En) have not tried out the new courses since the old course was split up into 4 courses, but believes that the quality should be consistent.)
 
 An alternative course, of very high quality too, is [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms) and [Algorithms, Part II](https://www.coursera.org/learn/java-data-structures-algorithms-2) by Princeton University. However, this course is in Java and may not be very useful.
 
@@ -60,16 +55,16 @@ For an overview of the main topics covered which are relevant to competitive pro
 | Union Find\* | x | ✓ |
 
 ## Practices
-Project Euler: It is an archived of 568 problem ranking from easy to difficult. [Go to site](https://projecteuler.net/archives)
 
-Australian Informatics Olympiad: [To try out sample questions](http://www.amt.edu.au/informatics/aio/aio-sample-questions/)
-
-(Singapore) National Olympiad in Informatics: All the first question of each year are relatively easier. Ivan thinks that 2008 questions is quite manageable. [Go to 2008 questions](https://www.comp.nus.edu.sg/~noi/tasks/2008/) 
+* [Project Euler](https://projecteuler.net/archives): An archive of 568 math-oriented problems, ranking from easy to extremely difficult.
+* [Australian Informatics Olympiad Sample Questions](http://www.amt.edu.au/informatics/aio/aio-sample-questions/) and the [AIOC Training Site](http://orac.amt.edu.au/cgi-bin/train/hub.pl).
+* (Singapore) National Olympiad in Informatics: The first question of each year is relatively easier. One of the authors (Ivan) think that the [2008 questions](https://www.comp.nus.edu.sg/~noi/tasks/2008/) are quite manageable.
 
 
 ## Books
+
 > Some recommended books for competitive programming.
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★☆ | [Competitive Programming](https://cpbook.net/), by Steven and Felix Halim | This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book, although advanced. ... The first edition is free for [download (pdf)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf). |
+| ★★☆ | [Competitive Programming](https://cpbook.net/), by Steven and Felix Halim | This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book, although advanced. The first edition is free for [download (pdf)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf). |
