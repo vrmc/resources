@@ -21,5 +21,13 @@ Pros: It is the most optimise way of solving the problem if the problem can be s
 
 Cons; There are situation by which picking the best option at that point in time will not result in the overall best output.
 
+Divide and conquer algorithm
 
+Descitption: It breaks down the problem into multiple sub-problems of the same type and runs a repetitive function for each sub-problem.
 
+Analogy: If you cannot carry 50 chairs at one go, you divide the chairs in batches of 5 and repeatedly carry 5 chairs each time to 
+accomplish the task of carrying 50 chairs.
+
+Pros: It can use simple repetive functions to solve complex problem.
+
+Cons: It assumes that the problem can be divided into repeative sub-tasks.
