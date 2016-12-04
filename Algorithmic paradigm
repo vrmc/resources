@@ -1,0 +1,9 @@
+Disclaimer: Done by Ivan with little reference and research. Done base on his understand.
+
+Brute force algorithm
+
+Description: It generates all possible solutions to the problem and checks every solution whether the possible solution solve the problem.
+
+Pros: This algorithm will always work and it is the most basic for all programmers.
+
+Cons: Due to huge generation of all possible soltuions, it is the most ineffecient way in solving the problem.
