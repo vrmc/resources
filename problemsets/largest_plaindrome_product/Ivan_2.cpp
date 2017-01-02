@@ -27,7 +27,7 @@ int main() {
                 break;
             }
         }
-        factor++;
+        factor--;
     }
     cout << answer<<endl;
     return 0;
