@@ -5,3 +5,7 @@ Find the best solution for these values of *N*:
 1. *N* = 2
 2. *N* = 3
 3. *N* = 4
+
+# Leaderboard
+
+No one has posted a solution yet.
