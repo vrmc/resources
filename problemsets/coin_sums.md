@@ -12,4 +12,4 @@ Taken from [Project Euler](https://projecteuler.net/problem=31).
 
 # Leaderboard
 
-No one has posted a solution yet.
+1. Ivan_1(Brute Force): 73682, 0m0.268s
