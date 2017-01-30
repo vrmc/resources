@@ -1,4 +1,4 @@
-***Disclaimer: Done by Ivan with little reference and research. Done based on his understanding.***
+A brief description of algorithm design paradigms. Not all algorithms follow these four algorithm design paradigms. They serve only as a general guideline.
 
 # Brute Force algorithm
 
@@ -31,3 +31,7 @@ accomplish the task of carrying 50 chairs.
 **Pros**: It can use simple repetitive functions to solve complex problem.
 
 **Cons**: It assumes that the problem can be divided into repeative sub-tasks.
+
+# Dynamic Programming
+
+Covered later on.
