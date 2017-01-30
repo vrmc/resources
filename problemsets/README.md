@@ -1,6 +1,6 @@
 # How does one add problems?
 
-Create a file, titled `problem_name_here.md`, and a folder, titled `problem_name_here`.
+Create a folder, titled `problem_name_here`, and put a file in it, titled `README.md`. Follow the format of the existing problems.
 
 # How does one add solutions?
 
