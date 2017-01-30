@@ -27,3 +27,5 @@ Taken from [Project Euler](https://projecteuler.net/problem=122).
 # Leaderboard
 
 No one has posted a solution yet.
+
+1. `wei_en_1.py` (non-general DFS): 1582, 0m0.289s
