@@ -28,7 +28,8 @@ Taken from [Project Euler](https://projecteuler.net/problem=122).
 
 No one has posted a solution yet.
 
-1. `wei_en_1.py` (non-general DFS): 1582, 0m0.289s
+1. `Ivan_1.py` (non-general DFS): 1582, 0m0.282s
+2. `wei_en_1.py` (non-general DFS): 1582, 0m0.289s
 
 # Notes
 
