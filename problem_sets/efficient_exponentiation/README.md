@@ -26,9 +26,7 @@ Taken from [Project Euler](https://projecteuler.net/problem=122).
 
 # Leaderboard
 
-No one has posted a solution yet.
-
-1. `Ivan_1.py` (non-general DFS): 1582, 0m0.282s
+1. `Ivan_1.cpp` (non-general DFS): 1582, 0m0.282s
 2. `wei_en_1.py` (non-general DFS): 1582, 0m0.289s
 
 # Notes
