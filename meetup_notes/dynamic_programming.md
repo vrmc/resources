@@ -22,3 +22,7 @@ for `n = 4`
 
 **TODO**: publish code and benchmark for above three cases, fact-check and elaborate
 more on above sections. write entry on data-structures
+
+## Example Problems
+
+There's the classic [0/1 Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem#Definition). A simple DP problem appeared in NOI 2008, called [Gecko](https://github.com/vjc-informatics/resources/tree/master/problem_sets/gecko).
